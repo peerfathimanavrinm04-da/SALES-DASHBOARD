@@ -1,11 +1,11 @@
 ## SALES DASHBOARD
-###**Tool**<br>EXCEL
+**Tool** EXCEL
 <br><br>
 ![image](https://app.notion.com/p/PROJECT-SUMMARY-2cef16d2a4f180e58cfac6637b2e92dd?source=copy_link#2cef16d2a4f1802fb7dbc281f29aba90)
 <br><br>
-####This project is a Sales Dashboard designed to visualize and analysis sales performance across multiple dimensions—products, regions, and sales personnel. Built in a spreadsheet format, it integrates key metrics and interactive charts to support strategic decision-making for sales managers and business analysts.
+This project is a Sales Dashboard designed to visualize and analysis sales performance across multiple dimensions—products, regions, and sales personnel. Built in a spreadsheet format, it integrates key metrics and interactive charts to support strategic decision-making for sales managers and business analysts.
 <br><br>
-###**Summary of Dashboard Components**
+**Summary of Dashboard Components**
 1. **Top-Level Metrics**
 
 These provide a quick snapshot of overall performance:
