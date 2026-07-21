@@ -1,7 +1,7 @@
 ## SALES DASHBOARD
 **Tool** EXCEL
 <br><br>
-![image](C:\Users\ASUS\Downloads.Screenshot(68).png)
+![image alt](C:\Users\ASUS\Downloads\Screenshot(68).png)
 <br><br>
 This project is a Sales Dashboard designed to visualize and analysis sales performance across multiple dimensions—products, regions, and sales personnel. Built in a spreadsheet format, it integrates key metrics and interactive charts to support strategic decision-making for sales managers and business analysts.
 <br><br>
