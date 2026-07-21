@@ -25,7 +25,7 @@ Users can dynamically filter data by:
 These filters allow granular analysis of performance by category.
 <br><br>
  ![image alt](https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/9b7117fd70310c17515a73e7216f8ff22d9f35e1/Screenshot%20(36).png)
-<imag scr="https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/cc58a3c7c83fb7245c692c8909478a2e963ad5e4/Screenshot%20(36).png" width =600>
+<imag src="https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/cc58a3c7c83fb7245c692c8909478a2e963ad5e4/Screenshot%20(36).png" width =600 height=300>
 <br><br>
  ![image alt](https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/622ce55a696304c366c7610291b5f3aaf4826501/Screenshot%20(38).png)
 <br><br>
