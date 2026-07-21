@@ -24,7 +24,7 @@ Users can dynamically filter data by:
 - **Region:** East, North, South, West
 These filters allow granular analysis of performance by category.
 <br><br>
- ![image alt](https://app.notion.com/p/PROJECT-SUMMARY-2cef16d2a4f180e58cfac6637b2e92dd?source=copy_link#2cef16d2a4f1803999a1df7e25fbab3b)
+ ![image alt](https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/9b7117fd70310c17515a73e7216f8ff22d9f35e1/Screenshot%20(36).png)<width= "500")<height="500>
 <br><br>
  ![image alt](https://app.notion.com/p/PROJECT-SUMMARY-2cef16d2a4f180e58cfac6637b2e92dd?source=copy_link#2cef16d2a4f180b2b938c27a0979437b)
 <br><br>
