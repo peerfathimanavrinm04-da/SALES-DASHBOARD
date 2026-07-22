@@ -1,6 +1,7 @@
 ## Sales Dashboard 
 #### **Tool**: Excel
 <br>
+
 ![image alt](https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/6e8bfd21e38f04e84a127ed0259ec0dbe0d8df00/Screenshot%20(68).png)
 <br><br>
 This project is a Sales Dashboard designed to visualize and analysis sales performance across multiple dimensions—products, regions, and sales personnel. Built in a spreadsheet format, it integrates key metrics and interactive charts to support strategic decision-making for sales managers and business analysts.
