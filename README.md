@@ -4,6 +4,7 @@
 
 ![image alt](https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/6e8bfd21e38f04e84a127ed0259ec0dbe0d8df00/Screenshot%20(68).png)
 <br><br>
+### **Overview**
 This project is a Sales Dashboard designed to visualize and analysis sales performance across multiple dimensions—products, regions, and sales personnel. Built in a spreadsheet format, it integrates key metrics and interactive charts to support strategic decision-making for sales managers and business analysts.
 <br><br>
 **Summary of Dashboard Components**
@@ -30,6 +31,7 @@ These filters allow granular analysis of performance by category.
 <br><br>
 <img src = "https://github.com/peerfathimanavrinm04-da/SALES-DASHBOARD/blob/622ce55a696304c366c7610291b5f3aaf4826501/Screenshot%20(38).png" width = "600" height ="300">
 <br><br>
+
 3. **Visualizations & Insights**
 
  Unit Sold by Salesperson (Line Chart)
